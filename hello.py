@@ -1,1 +1,2 @@
-print("Hello 傅柏諺!")
+import pygame
+
